@@ -47,7 +47,7 @@ print("Number of words: ",num_words)
 
 
 ### OUTPUT:
-![Screenshot (148)](https://github.com/Gopika-9266/Word-count/assets/122762773/35d25d4a-7f3b-4ba4-a140-59ffd5c6d368)
+![Screenshot (148)](https://github.com/Gopika-9266/Word-count/assets/122762773/6c304fe7-75c8-465b-ba93-c4acaea87cf5)
 
 
 ## RESULT:
